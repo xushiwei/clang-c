@@ -1,4 +1,4 @@
-module clang
+module github.com/xushiwei/clang-c/c
 
 go 1.20
 
